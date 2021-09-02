@@ -1,0 +1,9 @@
+Merchant id: cbe47edb-3ecc-4813-8d5e-8cb1887ccaf3
+
+Merchant key: 
+
+API_key pagarme
+ak_test_3M0Hlst8ZXdLBMJuBatCO377yykhCo
+
+Criptografia pagarme
+ek_test_7cnveBdNBMd6Y1pQOvIOLO2FM39d56
